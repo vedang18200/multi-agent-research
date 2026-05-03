@@ -8,6 +8,14 @@
 ![Groq](https://img.shields.io/badge/LLM-Groq%20%28Free%29-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
+## 🚀 Live Demo
+
+👉 [Try it here](https://huggingface.co/spaces/vedang182004/multi-agent-research)
+
+## 📸 Demo
+
+![Demo](assets/demo.gif)
+
 ---
 
 ## 📌 What It Does
